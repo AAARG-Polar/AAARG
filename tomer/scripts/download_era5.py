@@ -51,7 +51,7 @@ variables_isentropic = {
                  'param': #String of variable IDs separated by a forward slash (/). Check ECMWF ERA-5 website for list.
                  '54.128/60.128/131/132/133.128',
     
-                 'levels_kelvin': #List of pressure levels in Kelvin.
+                 'levels_kelvin': #List of isentropic levels in Kelvin.
                  [300,310],
 }
 
